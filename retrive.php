@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "Ritesh@mysql@2402";
+$password = "password";
 $database = "project_dbms";
 
 // Create connection
